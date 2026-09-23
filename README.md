@@ -78,20 +78,15 @@ The project includes analysis of:
 
 ## Tableau Dashboard
 
-A Tableau dashboard was created to visualize key financial metrics and analysis results.
+### Dashboard Preview
 
-The dashboard includes:
+![Personal Finance Analytics Dashboard](tableau-dashboard.png)
 
-* Total Income
-* Total Expenses
-* Total Savings
-* Average Savings Rate
-* Income vs. Expenses
-* Savings by Financial Scenario
-* Category-wise Expenses
-* Financial Stress Analysis
-* Savings Goal Analysis
-* Fraud Overview
+### Tableau Workbook
+
+The Tableau workbook is available below:
+
+[Download Tableau Workbook](Book1.twbx)
 
 ## Project Structure
 
@@ -110,3 +105,4 @@ Personal-Finance-Analytics/
 This project demonstrates the use of Python and Tableau for analyzing personal finance data, identifying financial patterns, and communicating analytical insights through visualizations.
 
 The project combines data cleaning, exploratory analysis, statistical relationships, group-wise analysis, and dashboard visualization to provide a structured view of personal financial data.
+
