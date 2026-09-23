@@ -86,7 +86,7 @@ The project includes analysis of:
 
 The Tableau workbook is available below:
 
-[Download Tableau Workbook](Book1.twbx)
+[Download Tableau Workbook](Book1.twb)
 
 ## Project Structure
 
